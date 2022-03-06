@@ -1,7 +1,7 @@
 # Welcome 😉
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=An%20Woo%20Seong&fontSize=90" />
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnwooseong&count_bg=%23F57B00&title_bg=%23785454&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 ![Anwooseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwooseong&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghi09194)](https://solved.ac/ghi09194/)
@@ -22,11 +22,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:aws56240@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:aws5624@naver.com)
 <a href="https://www.instagram.com/9_9w.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_9w.s/"/></a>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnwooseong&count_bg=%23F57B00&title_bg=%23785454&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnwooseong&count_bg=%2323E7E7E7&title_bg=%2323785454&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
