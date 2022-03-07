@@ -5,6 +5,8 @@
 
 ![Anwooseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwooseong&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghi09194)](https://solved.ac/ghi09194/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwooseong&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💪Skills
 ### Platforms & Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
