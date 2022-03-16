@@ -7,6 +7,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anwooseong&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghi09194)](https://solved.ac/ghi09194/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anwooseong&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeForces Profile](https://cf.leed.at?id={aws5624})](https://codeforces.com/profile/{aws5624})
 
 # 💪Skills
 ### Platforms & Languages
