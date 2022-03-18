@@ -1,7 +1,7 @@
 # Welcome 😉
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=An%20Woo%20Seong&fontSize=90" />
-
+![](https://github.com/Anwooseong/Anwooseong/blob/output/github-contribution-grid-snake.svg)
 
 ![Anwooseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwooseong&show_icons=true&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anwooseong&theme=gruvbox)
