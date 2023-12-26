@@ -32,7 +32,6 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:aws56240@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:aws5624@naver.com)
-<a href="https://www.instagram.com/9_9w.s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/9_9w.s/"/></a>
 
 ### Algorithm Blog
 - [알고리즘](https://velog.io/@aws5624?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
