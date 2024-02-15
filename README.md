@@ -33,9 +33,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:aws56240@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:aws5624@naver.com)
 
-### Algorithm Blog
-- [알고리즘](https://velog.io/@aws5624?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-![](https://github.com/Anwooseong/Anwooseong/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnwooseong&count_bg=%2323E7E7E7&title_bg=%2323785454&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
